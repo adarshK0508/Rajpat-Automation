@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rajpat-Automation/static/css/main.11f9f6f1.css",
+    "main.js": "/Rajpat-Automation/static/js/main.2022d4c0.js",
+    "static/js/787.b68409a2.chunk.js": "/Rajpat-Automation/static/js/787.b68409a2.chunk.js",
+    "static/media/logo.svg": "/Rajpat-Automation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Rajpat-Automation/index.html",
+    "main.11f9f6f1.css.map": "/Rajpat-Automation/static/css/main.11f9f6f1.css.map",
+    "main.2022d4c0.js.map": "/Rajpat-Automation/static/js/main.2022d4c0.js.map",
+    "787.b68409a2.chunk.js.map": "/Rajpat-Automation/static/js/787.b68409a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f9f6f1.css",
+    "static/js/main.2022d4c0.js"
+  ]
+}
